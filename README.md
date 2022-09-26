@@ -23,11 +23,11 @@
 + É necessário um banco de dados para testar a API e um Apache para iniciar o servidor
 ![WhatsApp Image 2022-09-26 at 15 45 22](https://user-images.githubusercontent.com/71852756/192361255-4ff7d7c0-c365-49eb-99f3-dd9410dcba1f.jpeg)
 
-+Com tudo instalado hora de testar o front-end da aplicação
-+Preenchendo todos os campos corretamente
++ Com tudo instalado hora de testar o front-end da aplicação
++ Preenchendo todos os campos corretamente
 ![WhatsApp Image 2022-09-26 at 15 44 32](https://user-images.githubusercontent.com/71852756/192361252-d546fdda-8776-4528-84f2-66db9cb1c724.jpeg)
 
-+As reservas foram feitas com sucesso!
++ As reservas foram feitas com sucesso!
 ![WhatsApp Image 2022-09-26 at 15 44 54](https://user-images.githubusercontent.com/71852756/192361254-82c19714-1269-47bd-85f4-ce8e491359af.jpeg)
 
 
